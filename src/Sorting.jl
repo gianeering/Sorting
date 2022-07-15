@@ -1,4 +1,5 @@
 #Author: Gianfranco Ponza, a.k.a GianProgrammer, gianeering, innerRot
+#© 2022 Gianfranco Ponza. All rights reserved.
 
 module Sorting
 	export isort!,ssort!,bsort!,msort!,ren!
