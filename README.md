@@ -1,6 +1,3 @@
-https://img.shields.io/github/repo-size/gianeering/Sorting?logo=GitHub&style=plastic 
-https://img.shields.io/youtube/channel/subscribers/UCEaWrSALzAeJD76XLumN85A?style=plastic
-
 Sorting algorithms for Julia. Comes with 4 sorting algorithms, plus an alternative algorithm to measure lengths with.
 isort!
 bsort!
