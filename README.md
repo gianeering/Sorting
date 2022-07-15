@@ -12,5 +12,5 @@ TO INSTALL THE PACKAGE INTO JULIA:
 1. GO TO REPL
 2. TYPE IN 'using Pkg' and press enter
 3. TYPE IN 'Pkg.add(url="https://github.com/gianeering/Sorting")' and press enter
-4. WAIT FOR IT TO DOWNLOAD
+4. WAIT FOR IT TO DOWNLOAD, DON'T FORGET TO TYPE 'using Sorting' WHENEVER YOU WISH TO USE IT.
 5. DONE, ENJOY!
