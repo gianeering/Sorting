@@ -7,4 +7,4 @@ bsort!
 ssort!  
 msort!  
 ren!  
-This script is completely free, either for commercial or personal use, but keep in mind that if you use them, please, give me the credits.
+This package is completely free, either for commercial or personal use, but keep in mind that if you use them, please, give me the credits.
