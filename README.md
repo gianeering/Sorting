@@ -7,7 +7,7 @@ bsort!
 ssort!  
 msort!  
 ren!  
-This package is completely free, either for commercial or personal use, but keep in mind that if you use them, please, give me the credits. 
+This package is completely free, either for commercial or personal use, but keep in mind that if you use them, please, give me the credits.  
 TO INSTALL THE PACKAGE INTO JULIA:
 1. GO TO REPL
 2. TYPE IN 'using Pkg' and press enter
