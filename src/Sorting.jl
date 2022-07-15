@@ -1,7 +1,4 @@
 #Author: Gianfranco Ponza, a.k.a GianProgrammer, gianeering, innerRot
-
-module Sorting
-
 """
 Insertion sort algorithm
 """
@@ -98,8 +95,5 @@ function ren!(T,k=1,mbuf = 0)
   end
 
   ren!(T,k+1,mbuf)
-
-end
-
 
 end
