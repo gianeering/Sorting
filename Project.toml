@@ -1,0 +1,13 @@
+name = "Sorting"
+uuid = "9f74bb78-8527-41b8-9927-80ede883d7a5"
+authors = ["Gianfranco Ponza"]
+version = "1.0.0"
+
+[compat]
+julia = "1.7.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
